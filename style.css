@@ -15,3 +15,43 @@ body {
 body {
     background-image: url("./assets/images/dayCareHome.jpg");;
 }
+
+#navBar {
+    background-color: rgba(255, 190, 106, 0.966);
+    height: 7vh;
+}
+#logo {
+    height: 7vh;
+    width: 4vw;
+}
+
+#homeLinks {
+    font-weight: bold;
+    font-size: large;
+    float: right;
+    margin-right: 1%;
+    line-height: 6vh;
+    color: rgb(75, 75, 75);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#indexJumbo {
+    margin-top: 10%;
+    width: 60vw;
+    height: 60vh;
+    background-color: rgba(143, 223, 185, 0.966);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+#arborHeadLine {
+    color: rgb(75, 75, 75);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#jumboLine {
+    color: darkgreen;
+}

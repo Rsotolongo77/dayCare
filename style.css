@@ -17,7 +17,7 @@ body {
 }
 
 #navBar {
-    background-color: rgba(255, 190, 106, 0.966);
+    background-color: rgba(255, 190, 106, 0.767);
     height: 7vh;
 }
 #logo {
@@ -25,21 +25,39 @@ body {
     width: 4vw;
 }
 
-#homeLinks {
+#homeLinks1,#homeLinks2,#homeLinks3,#homeLinks4 {
     font-weight: bold;
     font-size: large;
-    float: right;
     margin-right: 1%;
-    line-height: 6vh;
-    color: rgb(75, 75, 75);
+    margin-top: 1%;
+    float: right;
+    color: white;
     font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    width: 6vw;
+    text-align: center;
+}
+
+#homeLinks1 {
+    background-color: rgb(192, 122, 192);
+}
+
+#homeLinks2 {
+    background-color: rgb(93, 103, 241);
+}
+
+#homeLinks3 {
+    background-color: rgb(64, 145, 99);
+}
+
+#homeLinks4 {
+    background-color: rgb(196, 70, 70);
 }
 
 #indexJumbo {
     margin-top: 10%;
     width: 60vw;
-    height: 60vh;
-    background-color: rgba(143, 223, 185, 0.966);
+    background-color: rgba(143, 223, 186, 0.959);
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
@@ -54,4 +72,58 @@ body {
 
 #jumboLine {
     color: darkgreen;
+}
+
+#dayCareImg {
+    height: 25vh;
+    width: 25vw;
+}
+
+#homeDetails {
+    font-size: larger;
+    color: rgb(241, 93, 93);
+}
+
+#homeDetails2 {
+    font-size: larger;
+    color: rgb(93, 103, 241);
+}
+
+#homeDetails3 {
+    font-size: larger;
+    color: rgb(87, 82, 10);
+}
+
+#homeDetails4 {
+    font-size: larger;
+    color: rgb(75, 139, 110);
+}
+
+.container2Home {
+    background-color: rgb(150, 161, 221);
+    padding: 3%;
+    margin-top: 10%;
+    border-radius: 20px;
+    width: 30vw;
+}
+
+#title1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+#title2 {
+    color: white;
+}
+
+#content {
+    color: rgb(97, 96, 96);
+}
+
+#footer {
+    background-color: rgba(255, 190, 106, 0.767);
+    height: 5vh;
+    margin-top: 10%;
+    padding-top: 1%;
+    text-align: center;
+    color: rgb(241, 93, 93);
 }

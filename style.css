@@ -21,8 +21,11 @@ body {
     height: 7vh;
 }
 #logo {
-    height: 7vh;
+    margin-top: .1%;
+    height: 6.5vh;
     width: 4vw;
+    border-radius: 35px;
+    border: 2px solid rgb(255, 88, 88);
 }
 
 #homeLinks1,#homeLinks2,#homeLinks3,#homeLinks4 {
@@ -43,7 +46,7 @@ body {
 }
 
 #homeLinks2 {
-    background-color: rgb(93, 103, 241);
+    background-color: rgb(69, 170, 177);
 }
 
 #homeLinks3 {
@@ -52,6 +55,46 @@ body {
 
 #homeLinks4 {
     background-color: rgb(196, 70, 70);
+}
+
+#homeLinks1:hover
+{
+    box-shadow:
+    1px 1px #5376ea,
+    3px 3px #5376ea,
+    5px 5px #5376ea;
+    -webkit-transform: translateX(-6px);
+    transform: translateX(-6px);
+}
+
+#homeLinks2:hover
+{
+    box-shadow:
+    1px 1px #5376ea,
+    3px 3px #5376ea,
+    5px 5px #5376ea;
+    -webkit-transform: translateX(-6px);
+    transform: translateX(-6px);
+}
+
+#homeLinks3:hover
+{
+    box-shadow:
+    1px 1px #5376ea,
+    3px 3px #5376ea,
+    5px 5px #5376ea;
+    -webkit-transform: translateX(-6px);
+    transform: translateX(-6px);
+}
+
+#homeLinks4:hover
+{
+    box-shadow:
+    1px 1px #5376ea,
+    3px 3px #5376ea,
+    5px 5px #5376ea;
+    -webkit-transform: translateX(-6px);
+    transform: translateX(-6px);
 }
 
 #indexJumbo {
@@ -138,8 +181,8 @@ body {
 }
 
 .containerHome4 {
-    background-color: rgb(57, 182, 124);
-    height: 16vh;
+    background-color: rgb(89, 204, 150);
+    height: 19vh;
     width: 14vw;
     border-radius: 10px;
     margin-top: 6%;
@@ -161,6 +204,38 @@ body {
     margin-right: auto;
     justify-content: center;
     display: inline-block;
+    text-align: center;
+}
+
+#aboutUsImg {
+    height: 40vh;
+    margin: auto;
+    display: block;
+}
+
+#staffImg {
+    height: 30vh;
+    width: 20.5vw;
+    margin: 0;
+}
+
+#outDoorImg {
+    height: 40vh;
+    width: 20.5vw;
+    margin: 0;
+}
+
+#aboutUsCont {
+    background-color: rgb(230, 132, 151);
+    border-radius: 10px;
+    margin-top: 13%;
+}
+
+
+#title3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: whitesmoke;
     text-align: center;
 }
 

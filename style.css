@@ -171,7 +171,7 @@ body {
 #iframe1 {
     margin-top: 10%;
     height: 20vh;
-    width: 35vw;
+    width: 30vw;
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
@@ -198,14 +198,6 @@ body {
     margin-left: auto;
     margin-right: auto;
 } 
-
-#iframe2 {
-    margin-left: auto;
-    margin-right: auto;
-    justify-content: center;
-    display: inline-block;
-    text-align: center;
-}
 
 #aboutUsImg {
     height: 40vh;
@@ -239,10 +231,56 @@ body {
     text-align: center;
 }
 
+#contactArea {
+    background-color: rgba(137, 199, 250, 0.925);
+    border-radius: 10px;
+    margin-top: 13%;
+    padding-top: 7%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+#contactImg {
+    border-radius: 35px;
+    float: right;
+    margin-top: 5%;
+    box-shadow: 10px 10px 0px #00e6e6,
+                 20px 20px 0px #01cccc,
+                 30px 30px 0px #00bdbd;
+}
+
+#carouselImg{
+    height: 70vh;
+}
+
+#registerHead {
+    font-family: 'Cabin Sketch';
+    color: red;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#registerCont {
+    background-color: white;
+}
+
+#regForm {
+    margin: 7%;
+}
+
 #footer {
     background-color: rgba(255, 190, 106, 0.767);
     height: 5vh;
     margin-top: 8%;
+    padding-top: 1%;
+    text-align: center;
+    color: rgb(241, 93, 93);
+}
+
+#footer2 {
+    background-color: rgba(255, 190, 106, 0.767);
+    height: 5vh;
     padding-top: 1%;
     text-align: center;
     color: rgb(241, 93, 93);

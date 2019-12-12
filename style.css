@@ -97,12 +97,20 @@ body {
     transform: translateX(-6px);
 }
 
-#indexJumbo {
-    margin-top: 13%;
-    width: 70vw;
-    background-color: rgb(143, 223, 186);
+#container1 {
+    margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
+    border: 3px rgb(143, 223, 186) solid;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);   
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+}
+
+#indexJumbo {
+    margin: 7%;
+    background-color: rgb(143, 223, 186);
     border-radius: 10px;
 }
 
@@ -118,18 +126,19 @@ body {
 }
 
 #dayCareImg {
-    height: 25vh;
-    width: 30vw;
+    height: 30vh;
+    width: 45vw;
 }
 
 #homeDetails {
     color: rgb(75, 75, 75);
     font-family: 'Courier New', Courier, monospace;
-    font-size: large;
+    font-size: x-large;
 }
 
 .container2Home {
     background-color: rgb(150, 161, 221);
+    border: 2px rgb(101, 118, 211) solid;
     padding: 3%;
     margin-top: 10%;
     margin-left: auto;
@@ -153,6 +162,7 @@ body {
 
 .container3Home {
     background-color: rgb(232, 255, 179);
+    border: 2px rgb(142, 179, 8) solid;
     padding: 3%;
     margin-top: 10%;
     margin-left: auto;
@@ -175,15 +185,17 @@ body {
     margin-left: auto;
     margin-right: auto;
     border-radius: 10px;
+    border: 2px rgb(177, 177, 177) solid;
     justify-content: center;
     display: inline-block;
     text-align: center;
 }
 
-.containerHome4 {
-    background-color: rgb(89, 204, 150);
+.container5Home {
+    background-color: rgb(89, 158, 204);
     height: 19vh;
     width: 14vw;
+    border: 2px white solid;
     border-radius: 10px;
     margin-top: 6%;
     justify-content: center;

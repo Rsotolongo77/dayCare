@@ -211,6 +211,15 @@ body {
     margin-right: auto;
 } 
 
+#aboutUsCont1 {
+    margin-top: 5%;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);   
+    border-radius: 15px;
+    border: 3px rgb(230, 132, 151) solid;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+}
+
 #aboutUsImg {
     height: 40vh;
     margin: auto;
@@ -218,21 +227,26 @@ body {
 }
 
 #staffImg {
-    height: 30vh;
-    width: 20.5vw;
-    margin: 0;
+    margin-top: 3%;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    display: block;
 }
 
 #outDoorImg {
-    height: 40vh;
-    width: 20.5vw;
-    margin: 0;
+    margin-top: 3%;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    display: block;
 }
 
-#aboutUsCont {
+#aboutUsCont2 {
     background-color: rgb(230, 132, 151);
     border-radius: 10px;
-    margin-top: 13%;
+    margin: 7%;
+    padding: 2%;
 }
 
 

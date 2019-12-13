@@ -62,9 +62,9 @@ body {
 #homeLinks1:hover
 {
     box-shadow:
-    1px 1px #5376ea,
-    3px 3px #5376ea,
-    5px 5px #5376ea;
+    1px 1px rgb(248, 200, 111),
+    3px 3px rgb(248, 200, 111),
+    5px 5px rgb(248, 200, 111);
     -webkit-transform: translateX(-6px);
     transform: translateX(-6px);
 }
@@ -72,9 +72,9 @@ body {
 #homeLinks2:hover
 {
     box-shadow:
-    1px 1px #5376ea,
-    3px 3px #5376ea,
-    5px 5px #5376ea;
+    1px 1px rgb(248, 200, 111),
+    3px 3px rgb(248, 200, 111),
+    5px 5px rgb(248, 200, 111);
     -webkit-transform: translateX(-6px);
     transform: translateX(-6px);
 }
@@ -82,9 +82,9 @@ body {
 #homeLinks3:hover
 {
     box-shadow:
-    1px 1px #5376ea,
-    3px 3px #5376ea,
-    5px 5px #5376ea;
+    1px 1px rgb(248, 200, 111),
+    3px 3px rgb(248, 200, 111),
+    5px 5px rgb(248, 200, 111);
     -webkit-transform: translateX(-6px);
     transform: translateX(-6px);
 }
@@ -92,9 +92,9 @@ body {
 #homeLinks4:hover
 {
     box-shadow:
-    1px 1px #5376ea,
-    3px 3px #5376ea,
-    5px 5px #5376ea;
+    1px 1px rgb(248, 200, 111),
+    3px 3px rgb(248, 200, 111),
+    5px 5px rgb(248, 200, 111);
     -webkit-transform: translateX(-6px);
     transform: translateX(-6px);
 }
@@ -217,7 +217,7 @@ body {
     margin-top: 5%;
     box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);   
     border-radius: 15px;
-    border: 3px rgb(230, 132, 151) solid;
+    border: 3px rgb(245, 80, 113) solid;
     background-color: rgba(255, 255, 255, .15);
 }
 
@@ -227,20 +227,26 @@ body {
     display: block;
 }
 
-#staffImg {
-    margin-top: 3%;
-    margin-right: auto;
-    margin-left: auto;
+#curImg {
+    height: 40vh;
     justify-content: center;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#staffImg {
+    height: 55vh;
+    margin-top: 3%;
+    margin-right: 2%;
+    margin-left: 2%;
 }
 
 #outDoorImg {
+    height: 55vh;
     margin-top: 3%;
-    margin-right: auto;
-    margin-left: auto;
-    justify-content: center;
-    display: block;
+    margin-right: 2%;
+    margin-left: 2%;
 }
 
 #aboutUsCont2 {

@@ -13,19 +13,20 @@ body {
 }
 
 body {
-    background-image: url("./assets/images/dayCareHome.jpg");;
+    background-image: url("./assets/images/pencilsRegister.jpg");;
 }
 
 #navBar {
-    background-color: rgba(255, 190, 106, 0.767);
-    height: 7vh;
+    background-color: rgb(67, 184, 219);
+    height: 10vh;
 }
+
 #logo {
-    margin-top: .1%;
-    height: 6.5vh;
-    width: 4vw;
-    border-radius: 35px;
-    border: 2px solid rgb(255, 88, 88);
+    margin-top: .4%;
+    height: 8.5vh;
+    width: 5vw;
+    border-radius: 50%;
+    border: 2px solid pink;
 }
 
 #homeLinks1,#homeLinks2,#homeLinks3,#homeLinks4 {
@@ -101,21 +102,20 @@ body {
     margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
-    border: 3px rgb(143, 223, 186) solid;
+    border: 3px rgb(67, 184, 219) solid;
     box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);   
     border-radius: 15px;
     background-color: rgba(255, 255, 255, .15);
-    backdrop-filter: blur(5px);
 }
 
 #indexJumbo {
     margin: 7%;
-    background-color: rgb(143, 223, 186);
+    background-color: rgb(67, 184, 219);
     border-radius: 10px;
 }
 
 #arborHeadLine {
-    color: rgb(75, 75, 75);
+    color: white;
     text-align: center;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
@@ -126,12 +126,13 @@ body {
 }
 
 #dayCareImg {
-    height: 30vh;
+    height: 65vh;
     width: 45vw;
 }
 
 #homeDetails {
-    color: rgb(75, 75, 75);
+    color: white;
+    font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large;
 }
@@ -217,7 +218,6 @@ body {
     border-radius: 15px;
     border: 3px rgb(230, 132, 151) solid;
     background-color: rgba(255, 255, 255, .15);
-    backdrop-filter: blur(5px);
 }
 
 #aboutUsImg {
@@ -268,7 +268,6 @@ body {
     border-radius: 15px;
     border: 3px rgba(137, 199, 250, 0.925) solid;
     background-color: rgba(255, 255, 255, .15);
-    backdrop-filter: blur(5px);
 }
 
 #contactArea2 {
@@ -292,6 +291,11 @@ body {
     height: 70vh;
 }
 
+
+#carouselImg1{
+    width: 120vw;
+}
+
 #registerHead {
     font-family: 'Cabin Sketch';
     color: red;
@@ -301,22 +305,21 @@ body {
 
 #registerCont {
     background-color: rgba(187, 187, 187, 0.308);
-    backdrop-filter: blur(7px);
 }
 
 #footer {
-    background-color: rgba(255, 190, 106, 0.767);
-    height: 5vh;
+    background-color: rgb(67, 184, 219);
+    height: 7vh;
     margin-top: 8%;
     padding-top: 1%;
     text-align: center;
-    color: rgb(241, 93, 93);
+    color: rgb(212, 212, 212);
 }
 
 #footer2 {
-    background-color: rgba(255, 190, 106, 0.767);
-    height: 5vh;
+    background-color: rgb(67, 184, 219);
+    height: 7vh;
     padding-top: 1%;
     text-align: center;
-    color: rgb(241, 93, 93);
+    color: rgb(212, 212, 212);
 }

@@ -294,20 +294,24 @@ body {
                  30px 30px 0px #00bdbd;
 }
 
-#carouselImg{
+#formJumbo {
+    margin-top: 5%;
     height: 70vh;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);   
+    border-radius: 15px;
+    border: 3px rgb(255, 255, 110) solid;
+    background-color: rgba(255, 255, 255, .15);
 }
 
-
-#carouselImg1{
-    width: 120vw;
-}
-
-#registerHead {
+#formJumbo2 {
+    background-color: white;
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
     font-family: 'Cabin Sketch';
     color: red;
     text-align: center;
-    margin-top: 2%;
 }
 
 #registerCont {
@@ -325,6 +329,7 @@ body {
 
 #footer2 {
     background-color: rgba(67, 184, 219, 0.795);
+    margin-top: 5%;
     height: 7vh;
     padding-top: 1%;
     text-align: center;

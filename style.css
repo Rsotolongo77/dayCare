@@ -115,7 +115,7 @@ body {
     padding-bottom: 3%;
     padding-right: 0;
     padding-left: 0;
-    background-color: rgb(67, 184, 219);
+    background-color: rgba(99, 188, 230, 0.932);
     border-radius: 10px;
 }
 
@@ -179,9 +179,9 @@ body {
 }
 
 #container4 {
-    background-color: rgba(145, 198, 250, 0.925);
-    border-radius: 25px;
-    border: 3px rgb(76, 76, 163) solid;
+    background: linear-gradient(90deg, rgba(99, 168, 187, 0.856) 0%, rgba(111, 121, 197, 0.856) 73%);
+    border-radius: 5px;
+    border: 3px rgba(53, 53, 53, 0.856) solid;
 }
 
 #learnPic {
@@ -198,7 +198,7 @@ body {
     margin-right: auto;
     margin-bottom: 2%;
     font-family: 'Cabin Sketch';
-    color: teal;
+    color: white
 }
 
 #programImg {
@@ -307,6 +307,7 @@ body {
 #detailsForm {
     font-family: 'Cabin Sketch';
     display: inline-block;
+    text-align: center;
 }
 
 #registerCont {
@@ -316,7 +317,7 @@ body {
 #footer {
     background-color: rgba(67, 184, 219, 0.795);
     height: 7vh;
-    margin-top: 8%;
+    margin-top: 5%;
     padding-top: 1%;
     text-align: center;
     color: rgb(212, 212, 212);
@@ -324,7 +325,7 @@ body {
 
 #footer2 {
     background-color: rgba(67, 184, 219, 0.795);
-    margin-top: 8%;
+    margin-top: 5%;
     height: 7vh;
     padding-top: 1%;
     text-align: center;

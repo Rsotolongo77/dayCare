@@ -331,3 +331,304 @@ body {
     text-align: center;
     color: rgb(212, 212, 212);
 }
+
+
+
+
+
+
+@media (max-width: 1025px) {
+
+    html,
+    body {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+#homeLinks1, #homeLinks2, #homeLinks3, #homeLinks4 {
+    font-size: small;
+    width: 7vw;
+    margin-top: 3.5%;
+}
+
+#logo {
+    margin-top: 1%;
+    height: 8.5vh;
+    width: 12vw;
+}
+
+#programImg {
+    height: 15vh;
+}
+
+#learnPic {
+    height: 15vh;
+    width: 18vw;
+}
+
+}
+
+@media (max-width: 769px) {
+
+    
+    html,
+    body {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #homeLinks1, #homeLinks2, #homeLinks3, #homeLinks4 {
+        width: 9vw;
+    }
+
+    #programImg {
+        height: 25vh;
+    }
+}
+
+@media (max-width: 415px) {
+
+    html,
+    body {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #homeLinks1, #homeLinks2, #homeLinks3, #homeLinks4 {
+        width: 14vw;
+        font-size: x-small;
+        margin-top: 5%;
+    }
+    
+    #arborHeadLine {
+        font-size: 1.5rem;
+    }
+    
+    #logo {
+        margin-top: 1%;
+        height: 8.5vh;
+        width: 17vw;
+    } 
+
+    #dayCareImg {
+        height: 20vh;
+    }
+
+    #homeDetails {
+        font-size: x-small;
+        text-align: inherit;
+    }
+
+    #programImg {
+        height: 25vh;
+    }
+
+    #title1 {
+        font-size: 1.5rem;
+    }
+
+    #content {
+        font-size: small;
+    }
+
+    #imageHeader {
+        font-size: 1.5rem;
+    }
+
+    #imageHeader2 {
+        font-size: 1rem;
+    }
+    
+    #learnPic {
+        height: 10vh;
+        width: 18vw;
+    }
+
+    
+}
+
+@media (max-width: 376px) {
+
+    html,
+    body {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #homeLinks1, #homeLinks2, #homeLinks3, #homeLinks4 {
+        width: 14vw;
+        font-size: x-small;
+        margin-top: 5%;
+    }
+    
+    #arborHeadLine {
+        font-size: 1.5rem;
+    }
+    
+    #logo {
+        margin-top: 1%;
+        height: 8.5vh;
+        width: 17vw;
+    } 
+
+    #dayCareImg {
+        height: 20vh;
+    }
+
+    #homeDetails {
+        font-size: x-small;
+        text-align: inherit;
+    }
+
+    #programImg {
+        height: 25vh;
+    }
+
+    #title1 {
+        font-size: 1.5rem;
+    }
+
+    #content {
+        font-size: small;
+    }
+
+    #imageHeader {
+        font-size: 1.5rem;
+    }
+
+    #imageHeader2 {
+        font-size: 1rem;
+    }
+    
+    #learnPic {
+        height: 10vh;
+        width: 18vw;
+    }
+
+}
+
+@media (max-width: 361px) {
+    
+    html,
+    body {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #homeLinks1, #homeLinks2, #homeLinks3, #homeLinks4 {
+        width: 14vw;
+        font-size: x-small;
+        margin-top: 5%;
+    }
+    
+    #arborHeadLine {
+        font-size: 1.5rem;
+    }
+    
+    #logo {
+        margin-top: 1%;
+        height: 8.5vh;
+        width: 17vw;
+    } 
+
+    #dayCareImg {
+        height: 20vh;
+    }
+
+    #homeDetails {
+        font-size: x-small;
+        text-align: inherit;
+    }
+
+    #programImg {
+        height: 25vh;
+    }
+
+    #title1 {
+        font-size: 1.5rem;
+    }
+
+    #content {
+        font-size: small;
+    }
+
+    #imageHeader {
+        font-size: 1.5rem;
+    }
+
+    #imageHeader2 {
+        font-size: 1rem;
+    }
+    
+    #learnPic {
+        height: 10vh;
+        width: 18vw;
+    }
+
+}
+
+@media (max-width: 321px) {
+
+    html,
+    body {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #homeLinks1, #homeLinks2, #homeLinks3, #homeLinks4 {
+        width: 14vw;
+        font-size: x-small;
+        margin-top: 5%;
+    }
+    
+    #arborHeadLine {
+        font-size: 1.5rem;
+    }
+    
+    #logo {
+        margin-top: 1%;
+        height: 8.5vh;
+        width: 17vw;
+    } 
+
+    #dayCareImg {
+        height: 20vh;
+    }
+
+    #homeDetails {
+        font-size: x-small;
+        text-align: inherit;
+    }
+
+    #programImg {
+        height: 25vh;
+    }
+
+    #title1 {
+        font-size: 1.5rem;
+    }
+
+    #content {
+        font-size: small;
+    }
+
+    #imageHeader {
+        font-size: 1.5rem;
+    }
+
+    #imageHeader2 {
+        font-size: 1rem;
+    }
+    
+    #learnPic {
+        height: 10vh;
+        width: 18vw;
+    }
+
+}
+

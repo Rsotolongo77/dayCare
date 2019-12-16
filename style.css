@@ -345,6 +345,7 @@ body {
         background-repeat: no-repeat;
         background-size: cover;
     }
+
 #homeLinks1, #homeLinks2, #homeLinks3, #homeLinks4 {
     font-size: small;
     width: 7vw;
@@ -366,6 +367,26 @@ body {
     width: 18vw;
 }
 
+#title3 {
+    font-size: 2.5rem;
+}
+
+#aboutUsCont2 {
+    width: 80vw;
+}
+
+#aboutUsImg {
+    height: 30vh;
+}
+
+#staffImg {
+    height: 37vh;
+}
+
+#curImg {
+    height: 35vh;
+}
+
 }
 
 @media (max-width: 769px) {
@@ -384,6 +405,34 @@ body {
 
     #programImg {
         height: 25vh;
+    }
+
+    #title1{
+        font-size: 2.5rem;
+    }
+
+    #mission {
+        font-size: 1.3rem;
+    }
+
+    #title3 {
+        font-size: 2.5rem;
+    }
+    
+    #aboutUsCont2 {
+        width: 80vw;
+    }
+    
+    #aboutUsImg {
+        height: 30vh;
+    }
+    
+    #staffImg {
+        height: 37vh;
+    }
+    
+    #curImg {
+        height: 35vh;
     }
 }
 
@@ -446,7 +495,33 @@ body {
         width: 18vw;
     }
 
+    #mission {
+        font-size: 1.3rem;
+    }
+
+    #title3 {
+        font-size: 2.5rem;
+    }
     
+    #aboutUsCont2 {
+        width: 80vw;
+    }
+    
+    #aboutUsImg {
+        height: 18vh;
+    }
+    
+    #staffImg {
+        height: 22vh;
+    }
+    
+    #outDoorImg {
+        height: 45vh;
+    }
+    
+    #curImg {
+        height: 22vh;
+    }
 }
 
 @media (max-width: 376px) {
@@ -508,6 +583,33 @@ body {
         width: 18vw;
     }
 
+    #mission {
+        font-size: 1.3rem;
+    }
+
+    #title3 {
+        font-size: 2.5rem;
+    }
+    
+    #aboutUsCont2 {
+        width: 80vw;
+    }
+    
+    #aboutUsImg {
+        height: 18vh;
+    }
+    
+    #staffImg {
+        height: 22vh;
+    }
+
+    #outDoorImg {
+        height: 45vh;
+    }
+    
+    #curImg {
+        height: 22vh;
+    }
 }
 
 @media (max-width: 361px) {
@@ -569,6 +671,33 @@ body {
         width: 18vw;
     }
 
+    #mission {
+        font-size: 1.3rem;
+    }
+
+    #title3 {
+        font-size: 2.5rem;
+    }
+    
+    #aboutUsCont2 {
+        width: 80vw;
+    }
+    
+    #aboutUsImg {
+        height: 18vh;
+    }
+    
+    #staffImg {
+        height: 22vh;
+    }
+
+    #outDoorImg {
+        height: 45vh;
+    }
+    
+    #curImg {
+        height: 22vh;
+    }
 }
 
 @media (max-width: 321px) {
@@ -630,5 +759,32 @@ body {
         width: 18vw;
     }
 
+    #mission {
+        font-size: 1.3rem;
+    }
+
+    #title3 {
+        font-size: 2.5rem;
+    }
+    
+    #aboutUsCont2 {
+        width: 80vw;
+    }
+    
+    #aboutUsImg {
+        height: 18vh;
+    }
+    
+    #staffImg {
+        height: 22vh;
+    }
+
+    #outDoorImg {
+        height: 45vh;
+    }
+    
+    #curImg {
+        height: 22vh;
+    }
 }
 

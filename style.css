@@ -325,7 +325,7 @@ body {
 
 #footer2 {
     background-color: rgba(67, 184, 219, 0.795);
-    margin-top: 5%;
+    margin-top: 7%;
     height: 7vh;
     padding-top: 1%;
     text-align: center;
@@ -434,6 +434,10 @@ body {
     #curImg {
         height: 35vh;
     }
+
+    #googleForm {
+        width: 65vw;
+    }
 }
 
 @media (max-width: 415px) {
@@ -521,6 +525,14 @@ body {
     
     #curImg {
         height: 22vh;
+    }
+
+    #contactImg {
+        height: 20vh;
+    }
+
+    #googleForm {
+        width: 65vw;
     }
 }
 
@@ -610,6 +622,14 @@ body {
     #curImg {
         height: 22vh;
     }
+
+    #contactImg {
+        height: 20vh;
+    }
+
+    #googleForm {
+        width: 65vw;
+    }
 }
 
 @media (max-width: 361px) {
@@ -698,6 +718,14 @@ body {
     #curImg {
         height: 22vh;
     }
+
+    #contactImg {
+        height: 20vh;
+    }
+
+    #googleForm {
+        width: 65vw;
+    }
 }
 
 @media (max-width: 321px) {
@@ -785,6 +813,14 @@ body {
     
     #curImg {
         height: 22vh;
+    }
+
+    #contactImg {
+        height: 20vh;
+    }
+
+    #googleForm {
+        width: 65vw;
     }
 }
 

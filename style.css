@@ -111,6 +111,10 @@ body {
 
 #indexJumbo {
     margin: 7%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 0;
+    padding-left: 0;
     background-color: rgb(67, 184, 219);
     border-radius: 10px;
 }
@@ -127,8 +131,10 @@ body {
 }
 
 #dayCareImg {
-    height: 65vh;
-    width: 45vw;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    display: block;
 }
 
 #homeDetails {
@@ -136,6 +142,7 @@ body {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large;
+    text-align: center;
 }
 
 .container2Home {
@@ -146,7 +153,6 @@ body {
     margin-left: auto;
     margin-right: auto;
     border-radius: 20px;
-    width: 30vw;
 }
 
 #title1 {
@@ -170,48 +176,38 @@ body {
     margin-left: auto;
     margin-right: auto;
     border-radius: 20px;
-    width: 30vw;
+}
+
+#container4 {
+    background-color: rgba(145, 198, 250, 0.925);
+    border-radius: 25px;
+    border: 3px rgb(76, 76, 163) solid;
+}
+
+#learnPic {
+    height: 25vh;
+    width: 15vw;
+    margin: 2%;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imageHeader2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    font-family: 'Cabin Sketch';
+    color: teal;
 }
 
 #programImg {
-    width: 26.5vw;
-    height: 30vh;
+    height: 25vh;
     margin-left: auto;
     margin-right: auto;
-}
-
-#iframe1 {
-    margin-top: 10%;
-    height: 20vh;
-    width: 30vw;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 10px;
-    border: 2px rgb(177, 177, 177) solid;
     justify-content: center;
-    display: inline-block;
-    text-align: center;
+    display: block;
 }
-
-.container5Home {
-    background-color: rgb(89, 158, 204);
-    height: 19vh;
-    width: 14vw;
-    border: 2px white solid;
-    border-radius: 10px;
-    margin-top: 6%;
-    justify-content: center;
-    display: inline-block;
-    text-align: center;
-}
-
-#faceBookPic {
-    width: 12vw;
-    height: 12vh;
-    margin-top: 2%;
-    margin-left: auto;
-    margin-right: auto;
-} 
 
 #aboutUsCont1 {
     margin-top: 5%;

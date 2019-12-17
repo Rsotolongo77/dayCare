@@ -145,11 +145,16 @@ body {
     text-align: center;
 }
 
+.container2Col{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
 .container2Home {
     background-color: rgb(150, 161, 221);
     border: 2px rgb(101, 118, 211) solid;
-    padding: 3%;
-    margin-top: 10%;
+    padding: 7%;
+    margin-top: 15%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 20px;
@@ -171,8 +176,8 @@ body {
 .container3Home {
     background-color: rgb(232, 255, 179);
     border: 2px rgb(142, 179, 8) solid;
-    padding: 3%;
-    margin-top: 10%;
+    padding: 7%;
+    margin-top: 15%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 20px;

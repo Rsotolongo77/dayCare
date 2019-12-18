@@ -13,7 +13,7 @@ body {
 }
 
 body {
-    background-image: url("./assets/images/pencilsRegister.jpg");;
+    background-image: url("./assets/images/dayCareHome.jpg");;
 }
 
 #navBar {
@@ -135,6 +135,7 @@ body {
     margin-left: auto;
     justify-content: center;
     display: block;
+    height: 40vh;
 }
 
 #homeDetails {
@@ -151,7 +152,7 @@ body {
 }
 
 .container2Home {
-    background-color: rgb(150, 161, 221);
+    background-color: rgba(150, 161, 221, 0.959);
     border: 2px rgb(101, 118, 211) solid;
     padding: 7%;
     margin-top: 15%;
@@ -174,7 +175,7 @@ body {
 }
 
 .container3Home {
-    background-color: rgb(232, 255, 179);
+    background-color: rgba(232, 255, 179, 0.952);
     border: 2px rgb(142, 179, 8) solid;
     padding: 7%;
     margin-top: 15%;
@@ -239,19 +240,20 @@ body {
 #staffImg {
     height: 55vh;
     margin-top: 3%;
-    margin-right: 2%;
-    margin-left: 2%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #outDoorImg {
     height: 55vh;
     margin-top: 3%;
-    margin-right: 2%;
-    margin-left: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    
 }
 
 #aboutUsCont2 {
-    background-color: rgb(230, 132, 151);
+    background-color: rgba(230, 132, 152, 0.945);
     border-radius: 10px;
     margin: 7%;
     padding: 2%;
@@ -279,7 +281,7 @@ body {
 }
 
 #contactArea2 {
-    background-color: rgba(34, 101, 156, 0.925);
+    background-color: rgba(34, 101, 156, 0.938);
     border-radius: 10px;
     margin: 5%;
     padding-right: 10%;

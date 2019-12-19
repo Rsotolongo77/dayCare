@@ -13,7 +13,7 @@ body {
 }
 
 body {
-    background-image: url("./assets/images/dayCareHome.jpg");;
+    background-image: url("./assets/images/pencilsRegister.jpg");;
 }
 
 #navBar {
@@ -390,6 +390,10 @@ body {
     height: 37vh;
 }
 
+#outDoorImg {
+    height: 25vh
+}
+
 #curImg {
     height: 35vh;
 }
@@ -436,6 +440,10 @@ body {
     
     #staffImg {
         height: 37vh;
+    }
+
+    #outDoorImg {
+        height: 25vh
     }
     
     #curImg {
@@ -527,7 +535,7 @@ body {
     }
     
     #outDoorImg {
-        height: 45vh;
+        height: 25vh
     }
     
     #curImg {
@@ -623,7 +631,7 @@ body {
     }
 
     #outDoorImg {
-        height: 45vh;
+        height: 20vh
     }
     
     #curImg {
@@ -719,7 +727,7 @@ body {
     }
 
     #outDoorImg {
-        height: 45vh;
+        height: 25vh
     }
     
     #curImg {
@@ -815,7 +823,7 @@ body {
     }
 
     #outDoorImg {
-        height: 45vh;
+        height: 25vh
     }
     
     #curImg {
